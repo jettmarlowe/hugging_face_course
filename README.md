@@ -15,4 +15,3 @@ pip install transformers sentencepiece
 
 jupyter notebook
 ```
-
