@@ -12,3 +12,7 @@ pip install transformers sentencepiece
 
 jupyter notebook
 ```
+
+# Chapters
+* [Transformer Models](1_transformer_models.ipynb)
+* [Using HuggingFace Transformers](2_using_transformers.ipynb)
