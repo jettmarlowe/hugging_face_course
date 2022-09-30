@@ -8,7 +8,7 @@ conda activate transformers_course
 conda install -c conda-forge pandas pip
 conda install jupyter notebook
 conda install pytorch torchvision torchaudio -c pytorch
-pip install transformers sentencepiece
+pip install transformers sentencepiece datasets evaluate scipy sklearn
 
 jupyter notebook
 ```
@@ -16,3 +16,4 @@ jupyter notebook
 # Chapters
 * [Transformer Models](1_transformer_models.ipynb)
 * [Using HuggingFace Transformers](2_using_transformers.ipynb)
+* [Fine-Tuning a Pretrained Model](3_fine-tuning_a_pretrained_model.ipynb)
