@@ -18,4 +18,6 @@ jupyter notebook
 * [Using HuggingFace Transformers](2_using_transformers.ipynb)
 * [Fine-Tuning a Pretrained Model](3_fine-tuning_a_pretrained_model.ipynb)
 * [Sharing Models and Tokenizers](4_sharing_models_and_tokenizers.ipynb)
-* [The Datasets Library](5_datasets_library.ipynb)
+* [The HF Datasets Library](5_datasets_library.ipynb)
+* [The HF Tokenizers Library](6_transformers_library.ipynb)
+* [Main NLP Tasks](7_main-NLP-tasks.ipynb)
