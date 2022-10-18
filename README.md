@@ -21,3 +21,4 @@ jupyter notebook
 * [The HF Datasets Library](5_datasets_library.ipynb)
 * [The HF Tokenizers Library](6_transformers_library.ipynb)
 * [Main NLP Tasks](7_main-NLP-tasks.ipynb)
+* [Asking for Help](8_ask-for-help.ipynb)
